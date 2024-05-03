@@ -1,0 +1,12 @@
+root
+admin
+1234
+user
+Administrator
+123456
+anonymous
+usuario
+Password
+asdfgh
+contraseña
+12345
